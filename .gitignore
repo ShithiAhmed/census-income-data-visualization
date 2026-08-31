@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+practice.ipynb
+scenerio3.ipynb
